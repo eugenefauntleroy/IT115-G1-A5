@@ -2,13 +2,13 @@
 
 # QR Code App build tutorial
 
-# Team Members:
-## Nicholas Jimenez - [Team Lead] <br/>
-## Byron Shepard - [Tutorial]
-## Jeremy Bittner - [Tutorial]
-## Evan  [Coding App]
-## Mich Iwata - [Coding App]
-## Morgan Bligh - [Research/Tutorial]
+# Team Members: 
+Nicholas Jimenez - [Team Lead] <br/>
+Byron Shepard - [Tutorial] <br/>
+Jeremy Bittner - [Tutorial] <br/>
+Evan  [Coding App] <br/>
+Mich Iwata - [Coding App] <br/>
+Morgan Bligh - [Research/Tutorial] <br/>
 
 # Resources:
 QR Code app tutorial
