@@ -43,4 +43,4 @@ After that create another file and name it “script.js” this will utilize Jav
 
 <img width="866" alt="Screen Shot 2020-12-04 at 2 12 30 PM" src="https://user-images.githubusercontent.com/51951486/101221142-f0737180-363b-11eb-97d4-30f60df19931.png">
 
-[![HitCount](http://hits.dwyl.com/IT115-G1-A5/https://githubcom/olassia/IT115-G1-A5.svg)](http://hits.dwyl.com/IT115-G1-A5/https://githubcom/olassia/IT115-G1-A5)<br>
+[![HitCount](http://hits.dwyl.com/eugenefaunt/https://githubcom/eugenefauntleroy/qr_code_generator.svg)](http://hits.dwyl.com/eugenefaunt/https://githubcom/eugenefauntleroy/qr_code_generator)
