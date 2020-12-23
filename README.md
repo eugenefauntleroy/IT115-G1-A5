@@ -1,22 +1,7 @@
-# IT115-G1-A5
-
 # QR Code App build tutorial
 
-# Team Members: 
-Nicholas Jimenez - [Team Lead] <br/>
-Byron Shepard - [Tutorial] <br/>
-Jeremy Bittner - [Tutorial] <br/>
-Evan  [Coding App] <br/>
-Mich Iwata - [Coding App] <br/>
-Morgan Bligh - [Research/Tutorial] <br/>
-
-# Resources:
-QR Code app tutorial
-https://www.youtube.com/watch?v=AxjH-fd2SxM <br/>
-How to hello world
-https://docs.google.com/document/d/1eaw0VFVrWigKKsECKV-mQdEMxzpKIdLrC8vYbHAzTj0/edit <br/>
-Project layout guideline
-https://docs.google.com/document/d/1M-0SaWCetzl-NpAhEpTOEdIRFMzGI6R0pnU0CbECw_8/edit
+# Project website
+https://mc3waller.github.io/IT115-A5-Group1-Webpage/public/index.html
 
 # QR CODE GENERATOR 
 Within this guide are the steps required to create your own QR Code Generator.  A QR, or “quick response” code, is capable of storing significant amounts of data for its size and a QR Code Generator is a simple application that takes a user’s text input and generates a corresponding QR Code. 
